@@ -1,6 +1,6 @@
 # 자율주행 자동차
 
-[자동차 학습시키러 가기!](https://self-driving-car-beta.vercel.app/)
+[자동차 학습시키러 가기!](https://self-driving-car.vercel.app/)
 
 1. 자동차를 학습시키기 위하여, 실행된 이후에 사고가 나지 않는 시점 우측의 저장하기(💾)를 눌러 `가장 최적의 Neural`을 저장한다
 
